@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ars</groupId>
-	<artifactId>spring-boot-app-mysql</artifactId>
+	<artifactId>spring-boot-app-mysql-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-app</name>
 	<description>Demo project for Spring Boot</description>
